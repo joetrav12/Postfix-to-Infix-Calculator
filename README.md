@@ -1,4 +1,4 @@
-# Postfix-to-Infix-Calculator
+# PostfixtoInfixCalculator
 Converts a postfix expression to infix and evaluates it.
 
 To compile, type "cd " into terminal and then drag the project folder ("PostfixtoInfixCalculator-master") into terminal, then hit return. Then, type "javac Main.java" into terminal and hit return.
